@@ -1,12 +1,6 @@
 # writing_week3
 공학작문및발표 3주차 실습
 
-# writing
-공학작문및발표
-
-# week3_2
-## 3주차 git page 작성
-
 # 마크다운을 공부할 생각이 없는 분들을 위한 가이드
 
 # 'README.md' 파일 작성
